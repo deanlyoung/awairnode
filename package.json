@@ -1,0 +1,22 @@
+{
+  "name": "awairnode",
+  "version": "0.1.0",
+  "description": "nodejs SDK for Awair API",
+  "main": "awairnode.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanlyoung/awairnode.git"
+  },
+  "keywords": [
+    "awair"
+  ],
+  "author": "Dean L. Young <me@deanlyoung.com> (http://deanlyoung.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deanlyoung/awairnode/issues"
+  },
+  "homepage": "https://github.com/deanlyoung/awairnode#readme"
+}

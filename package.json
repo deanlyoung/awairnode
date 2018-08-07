@@ -1,6 +1,6 @@
 {
   "name": "awairnode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs SDK for Awair API",
   "main": "awairnode.js",
   "scripts": {
